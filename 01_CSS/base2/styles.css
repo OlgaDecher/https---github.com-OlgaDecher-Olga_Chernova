@@ -1,0 +1,22 @@
+h3 {
+    text-align: right;
+}
+
+h2 {
+    font-family: 'Bad Script', cursive;
+    text-decoration: underline;
+    text-indent: 20px;
+}
+
+div {
+    text-align: right;
+}
+
+.ital {
+    font-style: italic;
+} 
+
+.btext {
+    font-family: 'Bad Script', cursive;
+    text-indent: 20px;
+}

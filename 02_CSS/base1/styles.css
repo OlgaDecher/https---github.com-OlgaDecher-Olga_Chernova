@@ -1,0 +1,81 @@
+div {
+    width: 132px;
+    height: 188px;
+    padding: 5px;
+    background-color: white;
+    display: inline-block;
+}
+
+.first {
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-427px -390px;
+}
+
+.second {
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:5px -1782px;
+}
+
+.third {
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-283px -1384px;
+}
+
+.fourth {
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-139px -2182px;
+}
+
+.fifth {
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-283px -2381px;
+}
+
+.first_down {
+    float: left;
+    margin-left: 40px;
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-427px -390px;
+}
+
+.second_down {
+    float: left;
+    margin-left: -72px;
+    margin-top: 30px;
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-1px -1792px;
+}
+
+.third_down {
+    float: left;
+    margin-left: -72px;
+    margin-top: 60px;
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-289px -1394px;
+}
+
+.fourth_down {
+    float: left;
+    margin-left: -72px;
+    margin-top: 90px;
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-145px -2190px;
+}
+
+.fifth_down {
+    float: left;
+    margin-left: -72px;
+    margin-top: 120px;
+    background-image: url('cards.png');
+    background-repeat: no-repeat;
+    background-position:-289px -2389px;
+}
