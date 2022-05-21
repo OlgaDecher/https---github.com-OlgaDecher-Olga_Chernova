@@ -1,0 +1,26 @@
+h1 {
+    font-size: 1em;
+}
+
+.first {
+    background-color: aquamarine;
+    width: 15em;
+    float: left;
+}
+
+.add {
+    background-color: rgb(187, 135, 235);
+    margin-bottom: .2em;
+    
+}
+
+.down {
+    background-color: rgb(241, 204, 155);
+    clear: both;
+}
+ 
+.spacer {
+    clear: both;
+    background-color: rgb(187, 135, 235);
+}
+
