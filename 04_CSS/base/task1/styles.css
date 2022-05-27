@@ -1,0 +1,44 @@
+body {
+    width: 700px;
+}
+
+div {
+    border: solid rgb(204, 202, 202) 1px;
+    border-radius: 0px 11px 0px 11px;
+}
+
+div::first-letter {
+    padding-left: 15px;
+}
+
+p {
+    margin: -1px;
+    position: relative;
+}
+
+a img {
+    display: none;
+	position: absolute;
+	
+}
+
+a:hover img[src="images/word.jpg"] {
+    display: block;
+    top: 0;
+	border: 0;
+	left: 22%;
+}
+
+a:hover img[src="images/pdf.png"] {
+    display: block;
+    top: 0;
+	border: 0;
+	left: 17%;
+}
+
+a:hover img[src="images/zip.gif"] {
+    display: block;
+    top: 0;
+	border: 0;
+	left: 9%;
+}
