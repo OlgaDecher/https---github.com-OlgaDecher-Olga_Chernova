@@ -1,0 +1,21 @@
+th {
+    background-color: gray;
+}
+
+td {
+    border-left: rgb(170, 168, 168) 1px dotted;
+    border-bottom: rgb(170, 168, 168) 1px dotted;
+}
+
+td:first-child {
+    border-left: none;
+}
+
+[colspan] {
+    border-bottom: none;
+    text-align: center;
+}
+
+tr:nth-child(2n+2) {
+    background-color: rgb(252, 156, 252);
+}

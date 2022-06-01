@@ -1,0 +1,12 @@
+code {
+    color: black;
+    background-color: gray;
+}
+
+.string {
+    background-color: gray;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    display: inline;
+}
